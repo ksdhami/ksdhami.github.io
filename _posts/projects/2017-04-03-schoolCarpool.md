@@ -41,4 +41,4 @@ No one wants to be stuck in a car with someone who the would otherwise never int
 <br>
 </p>
 ###### *Click title for project repository*
-###### [See Final Project Report] (https://drive.google.com/file/d/1mNcXdmAmG74_G0XxKX1F24uod1tW-kuY/view?usp=sharing) 
+<p> <br> [See Final Project Report] (https://drive.google.com/file/d/1mNcXdmAmG74_G0XxKX1F24uod1tW-kuY/view?usp=sharing) </p>
