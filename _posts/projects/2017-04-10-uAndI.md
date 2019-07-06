@@ -1,0 +1,36 @@
+---
+layout: project
+permalink: /:title/
+category: projects
+
+meta:
+  keywords: "Information Visualisation, JavaScript, D3.js, HTML, CSS, Le Mans, 24 Hours, Endurance, Racing"
+
+project:
+  title: "Information Visualisation"
+  type: "Info Viz"
+  url: "https://github.com/ksdhami/lemans"
+  logo: "/assets/images/projects/bluepineapple/InfoViz.png"
+  tech: "JavaScript, D3.js, HTML, CSS"
+
+agency:
+  title: "Information Visualisation"
+  url: "http://contacts.ucalgary.ca/info/cpsc/courses/w19/CPSC583"
+  year: "2019"
+
+images:
+  - image:
+    url: "/assets/images/projects/bluepineapple/initialPic.png"
+    alt: "Aqua Pineapple website on a desktop device"
+  - image:
+    url: "/assets/images/projects/bluepineapple/selectPicTop.png"
+    alt: "Aqua Pineapple website on tablet, mobile and desktop"
+  - image:
+    url: "/assets/images/projects/bluepineapple/fullPic.png"
+    alt: "Aqua Pineapple website on a mobile device"
+---
+<p>TO-DO
+<br>
+</p>
+###### *Click title for project repository*
+##### [Click HERE to See Visualisation](https://ksdhami.github.io/lemans)
