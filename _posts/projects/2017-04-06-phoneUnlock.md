@@ -4,13 +4,13 @@ permalink: /:title/
 category: projects
 
 meta:
-  keywords: "HCI, Java, Unlock, Android, Android Studio"
+  keywords: "HCI, Java, Android, Android Studio"
 
 project:
   title: "Phone Unlock"
   type: "HCI"
   url: "https://github.com/ksdhami/hci2"
-  logo: "/assets/images/projects/mosspineapple/unlock.png"
+  logo: "/assets/images/projects/mosspineapple/phoneUnlock.png"
   tech: "Java, Android Studio"
 
 agency:
@@ -20,19 +20,19 @@ agency:
 
 images:
   - image:
-    url: "/assets/images/projects/mosspineapple/Swipe-main.png"
+    url: "/assets/images/projects/mosspineapple/swipeMain.png"
     alt: "Aqua Pineapple website on a desktop device"
   - image:
-    url: "/assets/images/projects/mosspineapple/Swipe-again.jpg"
+    url: "/assets/images/projects/mosspineapple/swipeAgain.png"
     alt: "Aqua Pineapple website on tablet, mobile and desktop"
   - image:
-    url: "/assets/images/projects/mosspineapple/Swipe-done.png"
+    url: "/assets/images/projects/mosspineapple/swipeDone.png"
     alt: "Aqua Pineapple website on a mobile device"
   - image:
-    url: "/assets/images/projects/mosspineapple/Sense-1.png"
+    url: "/assets/images/projects/mosspineapple/sense1.png"
     alt: "Aqua Pineapple website on a mobile device"
    - image:
-    url: "/assets/images/projects/mosspineapple/Sense-2.png"
+    url: "/assets/images/projects/mosspineapple/sense2.png"
     alt: "Aqua Pineapple website on a mobile device"
 ---
 <p>To unlock your smartphone you will probably have to enter some pin code or pattern. Maybe you use your fingerprint or face. What if unlocking your phone can be more engaging and even fun. Here are two alternative ways to unlock you smartphone.
