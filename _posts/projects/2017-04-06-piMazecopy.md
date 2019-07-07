@@ -4,19 +4,19 @@ permalink: /:title/
 category: projects
 
 meta:
-  keywords: "Maze, Assembly, C, Raspberry Pi, Pi"
+  keywords: "HCI, Java, Android, Android Studio"
 
 project:
-  title: "Maze"
-  type: "Pi"
-  url: "https://github.com/ksdhami/SNES-Maze"
-  logo: "/assets/images/projects/purplepineapple/maze.png"
-  tech: "C, Assembly ARMv8, Raspberry Pi"
+  title: "Screen Unlock"
+  type: "HCI"
+  url: "https://github.com/ksdhami/hci2"
+  logo: "/assets/images/projects/mosspineapple/phoneUnlock.png"
+  tech: "Java, Android Studio"
 
 agency:
-  title: "Computer Machinery II"
-  url: "http://contacts.ucalgary.ca/info/cpsc/courses/f18/CPSC359"
-  year: "2018"
+  title: "Human Computer Interaction II"
+  url: "http://contacts.ucalgary.ca/info/cpsc/courses/w19/CPSC581"
+  year: "2019"
 
 images:
   - image:
