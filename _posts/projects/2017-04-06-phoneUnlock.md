@@ -4,14 +4,14 @@ permalink: /:title/
 category: projects
 
 meta:
-  keywords: "HCI, C#, C++, Arduino, WPF, Fashion, Button, Unlock"
+  keywords: "HCI, Java, Unlock, Android, Android Studio"
 
 project:
-  title: "HCI 2 Projects"
+  title: "Phone Unlock"
   type: "HCI"
   url: "https://github.com/ksdhami/hci2"
-  logo: "/assets/images/projects/pinkpineapple/hci2.png"
-  tech: "C++, C#, Arduino"
+  logo: "/assets/images/projects/mosspineapple/unlock.png"
+  tech: "Java, Android Studio"
 
 agency:
   title: "Human Computer Interaction II"
@@ -20,19 +20,26 @@ agency:
 
 images:
   - image:
-    url: "/assets/images/projects/pinkpineapple/Group3.png"
+    url: "/assets/images/projects/mosspineapple/Swipe-main.png"
     alt: "Aqua Pineapple website on a desktop device"
   - image:
-    url: "/assets/images/projects/pinkpineapple/arduino_mega.jpg"
+    url: "/assets/images/projects/mosspineapple/Swipe-again.jpg"
     alt: "Aqua Pineapple website on tablet, mobile and desktop"
-  # - image:
-  #   url: "/assets/images/projects/purplepineapple/mobile.jpg"
-  #   alt: "Aqua Pineapple website on a mobile device"
+  - image:
+    url: "/assets/images/projects/mosspineapple/Swipe-done.png"
+    alt: "Aqua Pineapple website on a mobile device"
+  - image:
+    url: "/assets/images/projects/mosspineapple/Sense-1.png"
+    alt: "Aqua Pineapple website on a mobile device"
+   - image:
+    url: "/assets/images/projects/mosspineapple/Sense-2.png"
+    alt: "Aqua Pineapple website on a mobile device"
 ---
-<p>During the course, we dive into more detail regarding the design process through various projects. More precisley we explore, refine, and communicate design ideas through use of sketching. These sketches are then implemented through software and physical prototypes, creating highly interactive human computer interfaces which are used as solutions to a variety of real-world problems.
+<p>To unlock your smartphone you will probably have to enter some pin code or pattern. Maybe you use your fingerprint or face. What if unlocking your phone can be more engaging and even fun. Here are two alternative ways to unlock you smartphone.
 <br> <br>
-Projects include creating a softare application where the central interaction is a singular button where the interaction represents some aspect of a clients personality or character, two alternative ways to unlock a mobile device where one relies soley on touch/gesture input and the other relies soley on sensor input, a physical Arduino prototype that solves an everyday problem, and a fashion tech garment with Arduino. 
+The first uses traditional touch input. The user will play a quick game of "Where's Waldo" where they must find and touch all Waldo's within a pixelated photo taken from the user's phone gallery. If the user selects the wrong character, that is not a Waldo, the screen will display an appropriate message and reset the 'game'. 
+<br><br>
+The second uses the smartphones accelerometer, gyroscope, and light sensors. The user must move the smartphone in the correct direction, moving the eyes on the screen, and finally covering the smartphones light sensors, putting the eyes to sleep, for the smartphone to unlock. The user also has the ability to change the appearance of the eyes by quickly moving turning the phone upside down and back right side up. 
 <br>
 </p>
 ###### *Click title for project repository*
-##### [Click HERE to See Course Portfolio](https://ksdhami0.wixsite.com/cpsc581)
