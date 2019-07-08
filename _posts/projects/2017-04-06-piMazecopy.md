@@ -29,9 +29,11 @@ images:
   #   url: "/assets/images/projects/purplepineapple/mobile.jpg"
   #   alt: "Aqua Pineapple website on a mobile device"
 ---
-<p>A program for the Raspberry Pi that presents a maze on an HDMI monitor. Red is used to represent the player as they move through the maze on the pathways. When the player reaches the exit of the maze, they are redisplayed in green, indicating that the maze has been solved and the game is over.
+<p>To unlock your smartphone you will probably have to enter some pin code or pattern. Maybe you use your fingerprint or face. What if unlocking your phone can be more engaging and even fun. Here are two alternative ways to unlock you smartphone.
+<br> <br>
+The first uses traditional touch input. The user will play a quick game of "Where's Waldo" where they must find and touch all Waldo's within a pixelated photo taken from the user's phone gallery. If the user selects the wrong character, that is not a Waldo, the screen will display an appropriate message and reset the 'game'. 
 <br><br>
-The program uses a SNES controller connected to the Raspberry Pi to control the movement of the player through the maze. When your program starts up, it displays the maze, but not the position of the player. When the user presses the controller start button, the player appears in red in the starting position. The joypad arrow buttons are used to move the player one position to the left, right, up, or down. The player can only move on the pathways, and is not allowed to go through any walls or leave the playing area. When the player reaches the exit of the maze they can press the start button to restart the game.
+The second uses the smartphones accelerometer, gyroscope, and light sensors. The user must move the smartphone in the correct direction, moving the eyes on the screen, and finally covering the smartphones light sensors, putting the eyes to sleep, for the smartphone to unlock. The user also has the ability to change the appearance of the eyes by quickly moving turning the phone upside down and back right side up. 
 <br>
 </p>
 ###### *Click title for project repository*
