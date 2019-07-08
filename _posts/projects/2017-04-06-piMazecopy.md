@@ -28,6 +28,9 @@ images:
   - image:
     url: "/assets/images/projects/mosspineapple/swipeDone.png"
     alt: "Aqua Pineapple website on a mobile device"
+  - image:
+    url: "/assets/images/projects/mosspineapple/sense1.png"
+    alt: "Aqua Pineapple website on a mobile device"
 ---
 <p>To unlock your smartphone you will probably have to enter some pin code or pattern. Maybe you use your fingerprint or face. What if unlocking your phone can be more engaging and even fun. Here are two alternative ways to unlock you smartphone.
 <br> <br>
