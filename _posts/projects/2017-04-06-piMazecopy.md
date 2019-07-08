@@ -23,11 +23,11 @@ images:
     url: "/assets/images/projects/mosspineapple/swipeMain.png"
     alt: "Aqua Pineapple website on tablet, mobile and desktop"
   - image:
-    url: "/assets/images/projects/purplepineapple/snes_controller.jpg"
+    url: "/assets/images/projects/mosspineapple/swipeAgain.png"
     alt: "Aqua Pineapple website on a desktop device"
-  # - image:
-  #   url: "/assets/images/projects/purplepineapple/mobile.jpg"
-  #   alt: "Aqua Pineapple website on a mobile device"
+  - image:
+    url: "/assets/images/projects/mosspineapple/swipeDone.png"
+    alt: "Aqua Pineapple website on a mobile device"
 ---
 <p>To unlock your smartphone you will probably have to enter some pin code or pattern. Maybe you use your fingerprint or face. What if unlocking your phone can be more engaging and even fun. Here are two alternative ways to unlock you smartphone.
 <br> <br>
