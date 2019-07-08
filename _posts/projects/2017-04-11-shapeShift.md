@@ -4,33 +4,32 @@ permalink: /:title/
 category: projects
 
 meta:
-  keywords: "Information Visualisation, JavaScript, D3.js, HTML, CSS, Le Mans, 24 Hours, Endurance, Racing"
+  keywords: "HCI, C++, Arduino, Fashion, H&M"
 
 project:
-  title: "Information Visualisation"
-  type: "Info Viz"
-  url: "https://github.com/ksdhami/lemans"
-  logo: "/assets/images/projects/bluepineapple/InfoViz.png"
-  tech: "JavaScript, D3.js, HTML, CSS"
+  title: "Shape Shifter"
+  type: "DO School"
+  url: "https://github.com/ksdhami/DO-School"
+  logo: "/assets/images/projects/lightbluepineapple/ShapeShift.png"
+  tech: "C++, Arduino"
 
 agency:
-  title: "Information Visualisation"
-  url: "http://contacts.ucalgary.ca/info/cpsc/courses/w19/CPSC583"
+  title: "Connected Fashion Challenge"
+  url: "https://blog.thedoschool.com/connected-fashion-challenge-innovation-is-a-process/"
   year: "2019"
 
 images:
   - image:
-    url: "/assets/images/projects/bluepineapple/initialPic.png"
+    url: "/assets/images/projects/lightbluepineapple/arduino-uno.jpg"
     alt: "Aqua Pineapple website on a desktop device"
-  - image:
-    url: "/assets/images/projects/bluepineapple/selectPicTop.png"
-    alt: "Aqua Pineapple website on tablet, mobile and desktop"
-  - image:
-    url: "/assets/images/projects/bluepineapple/fullPic.png"
-    alt: "Aqua Pineapple website on a mobile device"
+  # - image:
+  #   url: "/assets/images/projects/bluepineapple/selectPicTop.png"
+  #   alt: "Aqua Pineapple website on tablet, mobile and desktop"
+  # - image:
+  #   url: "/assets/images/projects/bluepineapple/fullPic.png"
+  #   alt: "Aqua Pineapple website on a mobile device"
 ---
-<p>TO-DO
+<p>Coming Soon
 <br>
 </p>
 ###### *Click title for project repository*
-##### [Click HERE to See Visualisation](https://ksdhami.github.io/lemans)
