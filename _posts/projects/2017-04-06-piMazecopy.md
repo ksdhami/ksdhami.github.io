@@ -20,7 +20,7 @@ agency:
 
 images:
   - image:
-    url: "/assets/images/projects/purplepineapple/rasp_pi.jpg"
+    url: "/assets/images/projects/mosspineapple/swipeMain.png"
     alt: "Aqua Pineapple website on tablet, mobile and desktop"
   - image:
     url: "/assets/images/projects/purplepineapple/snes_controller.jpg"
