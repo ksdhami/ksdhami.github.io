@@ -34,7 +34,6 @@ images:
 </p>
 ###### *Click title for project repository*
 
-
 <!-- fashion has been evolving and changing throughout time
 normcore : is a unisex fashion trend characterized by unpretentious, normal-looking clothing
 using technology to change the way clothing looks and feels
