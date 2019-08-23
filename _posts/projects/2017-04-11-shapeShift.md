@@ -10,7 +10,7 @@ project:
   title: "Shape Shifter"
   type: "DO School"
   url: "https://github.com/ksdhami/DO-School"
-  logo: "/assets/images/projects/lightbluepineapple/ShapeShift.png"
+  logo: "/assets/images/projects/shapeshift/ShapeShift.png"
   tech: "C++, Arduino"
 
 agency:
@@ -20,7 +20,7 @@ agency:
 
 images:
   - image:
-    url: "/assets/images/projects/lightbluepineapple/arduino-uno.jpg"
+    url: "/assets/images/projects/shapeshift/arduino-uno.jpg"
     alt: "Aqua Pineapple website on a desktop device"
   # - image:
   #   url: "/assets/images/projects/bluepineapple/selectPicTop.png"
