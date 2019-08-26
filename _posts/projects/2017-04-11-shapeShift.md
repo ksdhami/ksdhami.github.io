@@ -35,8 +35,8 @@ Here we present the Shape Shifter, a unisex top with multiple layers that utilis
 <br><br>
 With the Shape Shifter we have fashion, function, and comfort in a single garment. 
 <br>
-##### *Collaborators: Subramanian, Hana, Karndeep, Karina*
 </p>
+##### *Collaborators: Subramanian, Hana, Karndeep, Karina*
 ###### *Click title for project repository*
 
 <!-- 
