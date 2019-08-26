@@ -22,12 +22,18 @@ images:
   - image:
     url: "/assets/images/projects/shapeshift/arduino-uno.jpg"
     alt: "Aqua Pineapple website on a desktop device"
-  # - image:
-  #   url: "/assets/images/projects/shapeShift/selectPicTop.png"
-  #   alt: "Aqua Pineapple website on tablet, mobile and desktop"
-  # - image:
-  #   url: "/assets/images/projects/shapeShift/fullPic.png"
-  #   alt: "Aqua Pineapple website on a mobile device"
+  - image:
+    url: "/assets/images/projects/shapeshift/shapeShiftUpperClosed.png"
+    alt: "Aqua Pineapple website on tablet, mobile and desktop"
+  - image:
+    url: "/assets/images/projects/shapeshift/shapeShiftUpperOpen.png"
+    alt: "Aqua Pineapple website on a mobile device"
+  - image:
+    url: "/assets/images/projects/shapeshift/shapeShiftShoulderOpen1.png"
+    alt: "Aqua Pineapple website on a mobile device"
+  - image:
+    url: "/assets/images/projects/shapeshift/shapeShiftShoulderOpen1.png"
+    alt: "Aqua Pineapple website on a mobile device"
 ---
 <p>Throughout history we can see that fashion has shifted and evolved not only for men and women but also the differences between the two. With this project, we envision the future of fashion to be normcore, a unisex fashion trend where the wearer chooses clothing that is unpretentious and not overly stylized. 
 <br><br>
