@@ -32,7 +32,10 @@ images:
     url: "/assets/images/projects/shapeshift/shapeShiftShoulderOpen1.png"
     alt: "Aqua Pineapple website on a mobile device"
   - image:
-    url: "/assets/images/projects/shapeshift/shapeShiftShoulderOpen1.png"
+    url: "/assets/images/projects/shapeshift/shapeShiftShoulderOpen2.png"
+    alt: "Aqua Pineapple website on a mobile device"
+  - image:
+    url: "/assets/images/projects/shapeshift/shapeShiftShoulderOpen3.png"
     alt: "Aqua Pineapple website on a mobile device"
 ---
 <p>Throughout history we can see that fashion has shifted and evolved not only for men and women but also the differences between the two. With this project, we envision the future of fashion to be normcore, a unisex fashion trend where the wearer chooses clothing that is unpretentious and not overly stylized. 
